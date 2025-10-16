@@ -1,6 +1,6 @@
 # 🎗️ Breast Cancer Prediction Project — DEPI
 
-> A machine learning pipeline for breast cancer diagnosis and analysis using DEPI framework
+> A machine learning pipeline for breast cancer diagnosis and analysis
 
 ---
 
