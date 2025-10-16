@@ -44,7 +44,7 @@ The **Breast Cancer Prediction Project — DEPI** is an end-to-end pipeline to c
    git clone https://github.com/mohammed-sa3ied/Breast_Cancer_Project-DEPI.git
    cd Breast_Cancer_Project-DEPI
 
-   ## 🚀 Usage
+## 🚀 Usage
 
 - Open the notebooks step-by-step in `Notebooks/` to follow the workflow  
 - Run the preprocessing and training scripts to reproduce results  
