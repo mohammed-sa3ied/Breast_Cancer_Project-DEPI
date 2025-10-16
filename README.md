@@ -12,10 +12,9 @@ The **Breast Cancer Prediction Project — DEPI** is an end-to-end pipeline to c
 
 ## ✨ Features
 
-- Data cleaning, preprocessing & feature transformations  
-- Multiple classification models (e.g. logistic regression, random forest, etc.)  
-- Model evaluation (accuracy, ROC, confusion matrix, etc.)  
-- Explainability / interpretability (feature importance, SHAP, etc.)  
+- Data cleaning, preprocessing & visualization
+- Multiple classification models (e.g. logistic regression, decision tree, etc.)  
+- Model evaluation (accuracy, f1-score, confusion matrix, etc.)  
 - Jupyter notebooks for exploratory analysis  
 - Versioning of datasets and model artifacts  
 
@@ -33,8 +32,8 @@ The **Breast Cancer Prediction Project — DEPI** is an end-to-end pipeline to c
 
 - **Best Model/**: holds final model weights, pickled objects  
 - **Notebooks/**: exploratory data analysis, experiments, comparisons  
-- **Reports/**: figures, result summaries, dashboards  
-- **Dataset Versions/**: versioned data sets you used in each step  
+- **Reports/**: ydata profiling pdf for the dataset
+- **Dataset Versions/**: versioned data sets used in each step  
 
 ---
 
@@ -65,9 +64,7 @@ The **Breast Cancer Prediction Project — DEPI** is an end-to-end pipeline to c
 
 ## 📊 Results & Visualizations
 
-- Confusion matrices, ROC curves, precision-recall curves  
-- Feature importance plots  
-- Comparison charts among various models  
+- Confusion matrices, f1-scores, precision-recall curves  
 - Save high-quality figures in `Reports/` for ready presentation  
 
 ---
@@ -94,8 +91,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 *   Aya Ashraf — [LinkedIn](YOUR_LINK_HERE)  
 *   Tasnim Qutb — [LinkedIn]([YOUR_LINK_HERE](https://www.linkedin.com/in/tasnim-qotb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-*   Ahmed Barakat — [LinkedIn](YOUR_LINK_HERE)  
-*   Mohammed Osama — [LinkedIn](YOUR_LINK_HERE)  
+*   Ahmed Barakat — [LinkedIn]([YOUR_LINK_HERE](https://www.linkedin.com/in/ahmad-barakat-4a16101b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+*   Mohammed Osama — [LinkedIn]([YOUR_LINK_HERE](https://www.linkedin.com/in/mohamed-abdulhalem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 *   Mohammed Saied — [LinkedIn](www.linkedin.com/in/mohammed-sa3ied)  
 
 ---
